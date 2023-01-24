@@ -1,7 +1,7 @@
 const Bedroom = (props) => {
   return ( 
     <div>
-      <h3>this is a bedroom</h3>
+      <h3>Bedroom {props.num}</h3>
     </div>
   )
 }
